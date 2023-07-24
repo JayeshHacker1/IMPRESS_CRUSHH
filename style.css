@@ -29,10 +29,10 @@ body {
 
 .paper.heart {
   position: relative;
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   padding: 0;
-  border-radius: 50%;
+  border-radius: 80%;
 }
 
 .paper.image {
